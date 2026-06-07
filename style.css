@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height:1.6;
+  margin:20px;
+}
+
+h1 {
+  color:darkblue;
+  text-align: center;
+}
+
+p {
+  max-width: 600px;
+}
+
+img{
+  width:300px;
+  margin;10px;
+}
+
+.center-image {
+  text-align: Center;
+}
+
+.center-image img {
+  display: inline-block;
+}
